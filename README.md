@@ -18,7 +18,7 @@ Capacidad de adaptarme a nuevos entornos y trabajar en equipo.
 📚 Actualmente estoy desarrollando mis conocimientos en tecnologías como HTML, CSS, JavaScript, PHP, Laravel, React, MySQL, AWS y no dejo de explorar nuevas herramientas y frameworks que me ayuden a crecer profesionalmente.
 </p>
   
-### 🛠 &nbsp;Technologies that I work with
+### 🛠 &nbsp;Tecnologias con las que he trabajado
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -31,7 +31,7 @@ Capacidad de adaptarme a nuevos entornos y trabajar en equipo.
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### 🔧 Tools
+#### 🔧 Herramientas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
